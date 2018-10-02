@@ -1,0 +1,659 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7f7eb09d-7f37-4304-8a50-c1ddeee8dc68" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-185603292">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.5" value="7" />
+          <entry key="project.open.time.6" value="2" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.open.time.9" value="2" />
+          <entry key="project.opened" value="16" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="babelrc" value="2" />
+          <entry key="css" value="10" />
+          <entry key="js" value="240" />
+          <entry key="json" value="8" />
+          <entry key="svg" value="1" />
+          <entry key="ts" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="10" />
+          <entry key="JSON" value="10" />
+          <entry key="JavaScript" value="240" />
+          <entry key="SVG" value="1" />
+          <entry key="TypeScript" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="2330" />
+          <entry key="js" value="19395" />
+          <entry key="json" value="26" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="2330" />
+          <entry key="JSON" value="26" />
+          <entry key="JavaScript" value="19395" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="455494945">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="gitignore" value="5" />
+          <entry key="js" value="2" />
+          <entry key="json" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JSON" value="2" />
+          <entry key="JavaScript" value="2" />
+          <entry key="PLAIN_TEXT" value="5" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>this.state</find>
+      <find>todo-ul</find>
+      <find>.inlineList</find>
+      <find>.label_item</find>
+      <find>todoslist</find>
+      <find>flex</find>
+      <find>add</find>
+      <find>border</find>
+      <find>font</find>
+      <find>header</find>
+      <find>addtodo</find>
+      <find>.todo</find>
+      <find>filter</find>
+      <find>inline</find>
+      <find>w2</find>
+      <find>.item</find>
+      <find>font: 14px 'Helvetica Neue', Helvetica, Arial, sans-serif;</find>
+      <find>font-sty</find>
+      <find>remove</find>
+      <find>svg_item</find>
+      <find>svg</find>
+      <find>item</find>
+      <find>line-t</find>
+      <find>todolist</find>
+      <find>:active</find>
+      <find>local</find>
+      <find>updateStorage</find>
+      <find>todoisFinishedHandler</find>
+      <find>todo</find>
+      <find>react-test-renderer</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$USER_HOME$/Desktop/jsdoc.js" />
+        <option value="$PROJECT_DIR$/components/addtodo.js" />
+        <option value="$PROJECT_DIR$/src/components/emitter.js" />
+        <option value="$PROJECT_DIR$/src/models.js" />
+        <option value="$PROJECT_DIR$/src/models/_models.js" />
+        <option value="$PROJECT_DIR$/src/models/index.js" />
+        <option value="$PROJECT_DIR$/src/components/addtodo.js" />
+        <option value="$PROJECT_DIR$/src/components/todo.js" />
+        <option value="$PROJECT_DIR$/src/services/todo.service3.js" />
+        <option value="$PROJECT_DIR$/src/services/todo.service2.js" />
+        <option value="$PROJECT_DIR$/src/components/todoListActive.js" />
+        <option value="$PROJECT_DIR$/src/components/todoListCompleted.js" />
+        <option value="$PROJECT_DIR$/src/components/filters.js" />
+        <option value="$PROJECT_DIR$/src/components/todoListAll.js" />
+        <option value="$PROJECT_DIR$/src/models/todo.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/.babelrc" />
+        <option value="$PROJECT_DIR$/src/models/todoList.js" />
+        <option value="$PROJECT_DIR$/src/services/todo.service.js" />
+        <option value="$PROJECT_DIR$/src/components/svg-marks.js" />
+        <option value="$PROJECT_DIR$/src/components/todoList.js" />
+        <option value="$PROJECT_DIR$/src/App.js" />
+        <option value="$PROJECT_DIR$/src/test.js" />
+        <option value="$PROJECT_DIR$/src/components/todoListContainer.js" />
+        <option value="$PROJECT_DIR$/src/App.test.js" />
+        <option value="$PROJECT_DIR$/src/App.css" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="first" type="b2602c69:ProjectViewProjectNode" />
+              <item name="first" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="first" type="b2602c69:ProjectViewProjectNode" />
+              <item name="first" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/myapp" />
+    <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/react-scripts" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Frontend\first\src\components" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Frontend\first\src\models" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Jest.App testing">
+    <configuration name="App testing" type="JavaScriptTestRunnerJest" factoryName="Jest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/src/test.js" />
+      <test-names>
+        <test-name value="App testing" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="App testing.Removing button testing" type="JavaScriptTestRunnerJest" factoryName="Jest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/test.js" />
+      <test-names>
+        <test-name value="App testing" />
+        <test-name value="Removing button testing" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="App testing.SVG active checking" type="JavaScriptTestRunnerJest" factoryName="Jest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/test.js" />
+      <test-names>
+        <test-name value="App testing" />
+        <test-name value="SVG active checking" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Removing button testing" type="JavaScriptTestRunnerJest" factoryName="Jest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/test.js" />
+      <test-names>
+        <test-name value="Removing button testing" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="test.js" type="JavaScriptTestRunnerJest" factoryName="Jest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST_FILE" />
+      <test-file value="$PROJECT_DIR$/src/test.js" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Jest.Removing button testing" />
+      <item itemvalue="Jest.test.js" />
+      <item itemvalue="Jest.App testing" />
+      <item itemvalue="Jest.App testing.SVG active checking" />
+      <item itemvalue="Jest.App testing.Removing button testing" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Jest.App testing" />
+        <item itemvalue="Jest.App testing.Removing button testing" />
+        <item itemvalue="Jest.test.js" />
+        <item itemvalue="Jest.App testing.SVG active checking" />
+        <item itemvalue="Jest.Removing button testing" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7f7eb09d-7f37-4304-8a50-c1ddeee8dc68" name="Default Changelist" comment="" />
+      <created>1536739129719</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1536739129719</updated>
+      <workItem from="1536739130983" duration="17197000" />
+      <workItem from="1536813768788" duration="21116000" />
+      <workItem from="1536899880579" duration="15375000" />
+      <workItem from="1537159090888" duration="31045000" />
+      <workItem from="1537245958577" duration="26416000" />
+      <workItem from="1537333187478" duration="22252000" />
+      <workItem from="1537360738876" duration="1704000" />
+      <workItem from="1537421912715" duration="15001000" />
+      <workItem from="1537767608739" duration="13637000" />
+      <workItem from="1537855841545" duration="20406000" />
+      <workItem from="1537938572966" duration="13663000" />
+      <workItem from="1538029169344" duration="11325000" />
+      <workItem from="1538113500904" duration="5312000" />
+      <workItem from="1538126568435" duration="7751000" />
+      <workItem from="1538369278779" duration="3016000" />
+      <workItem from="1538391872298" duration="36000" />
+      <workItem from="1538392947933" duration="4221000" />
+      <workItem from="1538476425227" duration="444000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="App_testing_Removing_button_testing - 2018.09.28 at 12h 20m 49s.xml">
+      <configuration name="App testing.Removing button testing" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="App_testing - 2018.09.28 at 12h 21m 11s.xml">
+      <configuration name="App testing" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="App_testing - 2018.09.28 at 12h 21m 23s.xml">
+      <configuration name="App testing" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="App_testing_SVG_active_checking - 2018.09.28 at 12h 22m 19s.xml">
+      <configuration name="App testing.SVG active checking" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="App_testing_Removing_button_testing - 2018.09.28 at 12h 22m 25s.xml">
+      <configuration name="App testing.Removing button testing" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="App_testing_Removing_button_testing - 2018.09.28 at 12h 22m 34s.xml">
+      <configuration name="App testing.Removing button testing" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="App_testing - 2018.09.28 at 12h 23m 30s.xml">
+      <configuration name="App testing" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="test_js - 2018.09.28 at 12h 23m 53s.xml">
+      <configuration name="test.js" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="App_testing_Removing_button_testing - 2018.09.28 at 12h 24m 37s.xml">
+      <configuration name="App testing.Removing button testing" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="App_testing - 2018.09.28 at 12h 29m 42s.xml">
+      <configuration name="App testing" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="229917000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6721044" visible="true" weight="0.15911485" />
+      <window_info id="Structure" order="1" sideWeight="0.32789558" side_tool="true" visible="true" weight="0.15911485" />
+      <window_info id="npm" order="2" sideWeight="0.17895879" side_tool="true" weight="0.15911485" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32321042" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.329718" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50105375" side_tool="true" weight="0.335141" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49894625" visible="true" weight="0.335141" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8252427" visible="true" weight="0.13277134" />
+      <window_info id="Structure" order="1" sideWeight="0.50323623" side_tool="true" weight="0.24973656" />
+      <window_info id="npm" order="2" sideWeight="0.17475729" side_tool="true" weight="0.13277134" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32321042" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.329718" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50052685" side_tool="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49947312" weight="0.335141" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/react.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="878" column="8" selection-start-line="878" selection-start-column="8" selection-end-line="878" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/jsdoc.js" />
+    <entry file="file://$PROJECT_DIR$/components/filters.js" />
+    <entry file="file://$PROJECT_DIR$/components/todo.js" />
+    <entry file="file://$PROJECT_DIR$/components/addtodo.js" />
+    <entry file="file://$PROJECT_DIR$/../react-tutorial/tutorial/src/App.js" />
+    <entry file="file://$PROJECT_DIR$/src/components/emitter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/services/todo.service3.js" />
+    <entry file="file://$PROJECT_DIR$/src/services/todo.service2.js" />
+    <entry file="file://$PROJECT_DIR$/src/components/todoListActive.js" />
+    <entry file="file://$PROJECT_DIR$/src/models/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/todoListCompleted.js" />
+    <entry file="file://$PROJECT_DIR$/src/components/addtodo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="22" column="31" lean-forward="true" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="13008" column="4" selection-start-line="13008" selection-start-column="4" selection-end-line="13008" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/models/todo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/jest/node_modules/jest-cli/build/TestScheduler.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="255" column="21" selection-start-line="255" selection-start-column="21" selection-end-line="255" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/models/todoList.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="25" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/filters.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-724">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/logo.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/svg-marks.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="20" column="52" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/react-test-renderer/cjs/react-test-renderer-shallow.development.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="441" column="13" selection-start-line="441" selection-start-column="13" selection-end-line="441" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/react-router/es/Route.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="22" column="4" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/todoList.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="61" lean-forward="true" selection-start-line="7" selection-start-column="61" selection-end-line="7" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/enzyme/build/ShallowWrapper.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="999" column="20" selection-start-line="999" selection-start-column="20" selection-end-line="999" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.babelrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="531">
+          <caret line="113" column="1" selection-start-line="113" selection-start-column="1" selection-end-line="113" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/services/todo.service.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="34" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/todo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="531">
+          <caret line="41" column="45" selection-start-line="41" selection-start-column="36" selection-end-line="41" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/todoListContainer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="531">
+          <caret line="44" column="71" selection-start-line="44" selection-start-column="71" selection-end-line="44" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="77" column="32" lean-forward="true" selection-start-line="77" selection-start-column="32" selection-end-line="77" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

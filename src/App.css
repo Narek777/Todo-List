@@ -1,0 +1,177 @@
+body {
+  padding: 1%;
+  background: #f5f5f5;
+  font: 14px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+*, *:after, *:before{
+  box-sizing: border-box;
+}
+.headerstyle {
+  color: rgba(175, 47, 47, 0.15);
+  font-size: 500%;
+}
+.text-alCen{
+  text-align: center;
+}
+
+.addTodo-input{
+  height: 65px;
+  width: 474px;
+  font-size: 22px;
+  font-family: inherit;
+  font-weight: inherit;
+  padding: 16px 16px 16px 60px;
+  border: 0;
+}
+
+.addTodo-input::placeholder{
+  color: rgba(205, 205, 205, 0.7);
+  font-style: italic;
+}
+
+.circle {
+stroke-width: 5px;
+}
+
+.todobutton {
+  height: 50%;
+  width: 7%;
+}
+.inlineList {
+  height: 36px;
+  text-align: center;
+  font-size: 100%;
+}
+.w-h-100{
+  width:  100%;
+  height: 100%;
+}
+
+
+/*helpers/filters*/
+.filter{
+  height: 50px;
+  width: 474px;
+  color: #777;
+  background-color: white;
+  padding: 10px;
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.2),
+              0 8px 0 -3px #f6f6f6,
+              0 9px 1px -3px rgba(0, 0, 0, 0.2),
+              0 16px 0 -6px #f6f6f6,
+              0 17px 2px -6px rgba(0, 0, 0, 0.2);
+}
+
+
+.flex{
+  display: flex;
+}
+
+.alCen{
+  align-items: center;
+}
+
+.w20{
+  width: 20%;
+}
+
+.ns{
+  flex-shrink: 0;
+}
+
+.wrap{
+  flex-wrap: wrap;
+}
+
+.btn{
+  -webkit-appearance: none;  /* Override default CSS styles */
+  appearance: none;
+  border:0;
+  outline: 0;
+  cursor: pointer;
+  border-radius: 10px;
+}
+.btn:active{
+  margin-top: 2px;
+  border: 1px solid rgba(175, 47, 47, 0.2);
+}
+
+.btn1{
+  background: none;
+  color: #777;
+}
+
+.filterlist-mg {
+  margin: auto;
+}
+.pd-top9{
+  padding-top: 9px;
+}
+.div-All{
+  width: 35px;
+  margin-left: 31px;
+}
+.div-Active{
+  width: 54px;
+  margin: 0;
+}
+.div-Completed {
+  margin-right: 31px;
+}
+.div-ClearCompleted{
+  width: 120px;
+}
+
+
+/*TodoList*/
+
+.svg_item{
+  width: 50px;
+  height:50px;
+  margin-right: 10px;
+}
+.label_item{
+  color: #000000;
+  font-size: 25px;
+  flex-grow: 1;
+  text-align: left;
+}
+.remove_btn{
+  width:  40px;
+  height: 40px;
+  font-size: 30px;
+  color: #cc9a9a;
+}
+.item {
+  height: 65px;
+  width: 474px;
+  border-top: 1px solid #dadada;
+  background-color: white;
+}
+.item:hover .remove_btn{
+ display: block;
+}
+
+.todo{
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+.label_item--opacity{
+  opacity: 0.8;
+  color: #d9d9d9;
+  text-decoration: line-through;
+}
+.disp-none{
+  display: none;
+}
+.svg-path{
+  transform: translate(14px,12px);
+}
+
+.box-shadwow{
+  box-shadow: 0 2px 4px 0   rgba(0, 0, 0, 0.2),
+              0 25px 50px 0 rgba(0, 0, 0, 0.1);
+  }
