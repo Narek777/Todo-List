@@ -1,24 +1,34 @@
-This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
+<!-- Heading -->
+# Todo List
 
-## Folder Structure
+<!-- Introduction -->
+<!-- Strong Text -->
+### Welcome to My First Project
+### It's my first Todo Project with **React** . 
 
-After creation, your project should look like this:
+
+## Getting Started
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+
+### Prerequisites
+
+What things you need to install the software and how to install them
 
 ```
-my-app/
-  README.md
-  node_modules/
-  package.json
-  public/
-    index.html
-    favicon.ico
-  src/
-    App.css
-    App.js
-    App.test.js
-    index.css
-    index.js
-    logo.svg
+Install [Git](https://git-scm.com/downloads)
+```
+```
+I am using WebStorm, but You can use whatever you want
+```
+```
+Also, You have to install some node modules for this code.
 ```
 
-You can, however, create more top-level directories
+
+### Installation
+
+  A step by step series of examples that tell you how to get a development env running
+
+1. Open Folder, where the Project will be set up
+1. Click mouse right button and select **Git Bash Here**
+1. Write ``` git clone https://github.com/Narek777/Todo-List.git ```
