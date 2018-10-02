@@ -14,15 +14,9 @@ These instructions will get you a copy of the project up and running on your loc
 
 What things you need to install the software and how to install them
 
-```
-Install [Git](https://git-scm.com/downloads)
-```
-```
-I am using WebStorm, but You can use whatever you want
-```
-```
-Also, You have to install some node modules for this code.
-```
+
+* Install [Git](https://git-scm.com/downloads)
+* I am using WebStorm for codding, but You can install use whatever you want
 
 
 ### Installation
