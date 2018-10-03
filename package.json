@@ -22,8 +22,15 @@
     "babel-preset-react": "^6.24.1",
     "enzyme": "^3.6.0",
     "enzyme-adapter-react-16": "^1.5.0",
+    "identity-obj-proxy": "^3.0.0",
     "jest": "^23.6.0",
     "react-addons-test-utils": "^15.6.2",
     "react-test-renderer": "^16.5.2"
+  },
+  "jest": {
+    "moduleNameMapper": {
+      "\\.(jpg|jpeg|png|gif|eot|otf|webp|svg|ttf|woff|woff2|mp4|webm|wav|mp3|m4a|aac|oga)$": "<rootDir>/__mocks__/fileMock.js",
+      "\\.(css|less)$": "identity-obj-proxy"
+    }
   }
 }

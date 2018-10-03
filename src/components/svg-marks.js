@@ -1,6 +1,8 @@
-import {Component} from "react";
-import React from "react";
 import '../App.css';
+import {Component} from "react";
+
+import React from "react";
+
 
 /** Class representing an SvgMarks. */
 class SvgMarks extends Component{
