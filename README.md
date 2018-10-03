@@ -27,3 +27,7 @@ What things you need to install the software and how to install them
 1. Click mouse right button and select **Git Bash Here**
 1. Write ``` git clone https://github.com/Narek777/Todo-List.git ```
 1. Then ``` git install ```
+
+## Authors
+
+**Narek Ohanjanyan** - *Initial work* - [Narek777](https://github.com/Narek777)
