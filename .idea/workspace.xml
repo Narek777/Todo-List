@@ -122,8 +122,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="545">
-              <caret line="34" column="3" selection-start-line="34" selection-start-column="3" selection-end-line="34" selection-end-column="3" />
+            <state relative-caret-position="426">
+              <caret line="27" column="36" lean-forward="true" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -253,7 +253,7 @@
       <path value="$PROJECT_DIR$/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="349" />
     <option name="y" value="-21" />
     <option name="width" value="1936" />
@@ -423,7 +423,7 @@
       <workItem from="1538391872298" duration="36000" />
       <workItem from="1538392947933" duration="4221000" />
       <workItem from="1538476425227" duration="621000" />
-      <workItem from="1538477379742" duration="6496000" />
+      <workItem from="1538477379742" duration="7097000" />
     </task>
     <servers />
   </component>
@@ -460,10 +460,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="236590000" />
+    <option name="totallyTimeSpent" value="237191000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6698565" visible="true" weight="0.15911485" />
       <window_info id="Structure" order="1" sideWeight="0.33014354" side_tool="true" visible="true" weight="0.15911485" />
@@ -699,8 +699,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="545">
-          <caret line="34" column="3" selection-start-line="34" selection-start-column="3" selection-end-line="34" selection-end-column="3" />
+        <state relative-caret-position="426">
+          <caret line="27" column="36" lean-forward="true" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="36" />
         </state>
       </provider>
     </entry>
