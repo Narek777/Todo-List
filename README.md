@@ -28,6 +28,8 @@ What things you need to install the software and how to install them
 1. Write ``` git clone https://github.com/Narek777/Todo-List.git ```
 1. Then ``` git install ```
 
+### Don't forget to leave star :) See more about [Stars](https://help.github.com/articles/about-stars/)
+
 ## Authors
 
 **Narek Ohanjanyan** - *Initial work* - [Narek777](https://github.com/Narek777)
