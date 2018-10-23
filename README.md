@@ -16,7 +16,7 @@ What things you need to install the software and how to install them
 
 
 * Install [Git](https://git-scm.com/downloads)
-* I am using WebStorm for codding, but You can install use whatever you want
+* I am using WebStorm for codding, but You can use whatever you want
 
 
 ### Installation
